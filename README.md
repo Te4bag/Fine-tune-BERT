@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook for fine-tuning a base BERT model us
 
 ## Overview
 
-The notebook fine-tunes a `bert-base-uncased` model to classify emotions from text using LoRA (Low-Rank Adaptation) and bitsandbytes for efficient training.
+The notebook fine-tunes a `bert-base-uncased` model to classify emotions from text using QLoRA (Quantized Low-Rank Adaptation) and bitsandbytes for efficient training.
 
 ### Key Features:
 - Instruction-style format for input text.
